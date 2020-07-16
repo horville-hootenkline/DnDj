@@ -1,2 +1,2 @@
-# DnDj
-A  multi-featured sound mixer for Foundry VTT
+## DnDj
+A  multi-featured (and system agnostic) sound mixer for Foundry VTT
