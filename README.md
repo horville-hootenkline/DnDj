@@ -1,4 +1,4 @@
-##DnDj
+# DnDj
 
 A  multi-featured (and system agnostic) sound mixer for Foundry VTT, DnDj gives the GM detailed control over what is being played and heard.
 
