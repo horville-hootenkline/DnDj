@@ -2,19 +2,23 @@
 
 A  multi-featured (and system agnostic) sound mixer for Foundry VTT, that gives the GM detailed control over what is being played and heard.
 
-**Features at launch include...**
+**Features at launch include -**
 
 - cross fade tracks over variable times. 
 
 - live volume control.
 
-- pause and mute.
+- master and personal volume control.
+
+- pause.
+
+- mute.
 
 - automatically sync everyone to the same time elapsed on all tracks. 
 
 - Session memory - the ability to load your last mix.
 
-**Upcoming features...**
+**Upcoming features -**
 
 - control who hears what. 
 
