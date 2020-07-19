@@ -34,7 +34,7 @@ DnDj is designed to give the GM detailed control over what is being played and h
 
 **Possible future features -**
 
-- A soundboard.
+- A soundboard. [ This is a little vanilla, but would make sense within the infrastructure of the module.]
 
 - A satelite mixer for players [ e.g Brain is all about the delicate woodland ambience, but on the other hand Maggie wants to drown in the addrenaline of endless synths, sampled choirs and war drums. ]
 
