@@ -16,7 +16,7 @@ DnDj is designed to give the GM detailed control over what is being played and h
 
 - mute.
 
-- automatically sync everyone to the same time elapsed on all tracks (when a playing logs into a session their audio syncs automatically with the GM's).
+- automatically sync everyone to the same time elapsed on all tracks (when a player logs into a session their audio syncs automatically with the GM's).
 
 - Session memory - the ability to load your last mix.
 
