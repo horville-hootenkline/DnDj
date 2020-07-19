@@ -36,7 +36,7 @@ DnDj is designed to give the GM detailed control over what is being played and h
 
 - A soundboard.
 
-- A satelite mixer for players e.g Brain is all about the delicate ambience, but Maggie on the other hand wants to drown in the addrenaline of endless synths and war drums. 
+- A satelite mixer for players [ e.g Brain is all about the delicate ambience, but Maggie on the other hand wants to drown in the addrenaline of endless synths and war drums. ]
 
 
 ## NOTES - given the intricate nature of this module, its numerous possible states and the inherently disruptive nature of a sound error - this thing is going to be woobly for a while.
