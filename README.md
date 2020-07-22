@@ -6,17 +6,21 @@ DnDj is designed to give the GM detailed control over what is being played and h
 
 **Features at launch include -**
 
-- cross fade tracks over variable times. 
+- simutalneously cross fade tracks over variable times (including snap change).
 
-- live volume control.
+- live volume control, syncing input slider and volume in real time.
 
-- master and personal volume control.
+- master (GM and personal (everyone) volume control.
 
 - pause.
 
 - mute.
 
-- automatically sync everyone to the same time elapsed on all tracks (when a player logs into a session their audio syncs automatically with the GM's).
+- pin tracks. When a track in the mix stops, it is automatically remove. Pinned tracks remain. 
+
+- cue tracks to unpause/pause on next fade or snap
+
+- sync everyone to the same time elapsed on all tracks (including when a player logs into a session their audio syncs automatically with the GM's).
 
 - Session memory - the ability to load your last mix.
 
@@ -26,7 +30,7 @@ DnDj is designed to give the GM detailed control over what is being played and h
 
 - monitoring: allowing the GM to audition tracks and volume changes without the players hearing them.
 
-- control who hears what [ e.g resolve a passive perception check with Alex hearing the orcs but not Maggie or Brian.]
+- control who hears what [ e.g resolve a passive perception check with Alex hearing the approaching orcs but not Maggie or Brian.]
 
 - save multiple sessions and load them on the fly allowing a GM to seamlessly mix between presets for locations, situations or characters. This would result in...
 
