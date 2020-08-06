@@ -1,5 +1,7 @@
 # DnDj
 
+![image](_images/track.png)
+
 **A multi-featured (and system agnostic) sound mixer/controller for [Foundry VTT](https://foundryvtt.com).**
 
 DnDj is designed to give the GM detailed and flexible control over what is being played and heard.
