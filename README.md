@@ -6,7 +6,7 @@ DnDj is designed to give the GM detailed and flexible control over what is being
 
 **Features at launch include -**
 
-- simutalneously cross fade tracks over variable times (including snap change).
+- simutalneously cross fade tracks smoothly over variable times (including snap change).
 
 - live volume control, syncing input slider and volume in real time.
 
