@@ -1,6 +1,6 @@
 # DnDj
 
-![image](_images/track.png)
+![image](_images/trackII.png)
 
 **A multi-featured (and system agnostic) sound mixer/controller for [Foundry VTT](https://foundryvtt.com).**
 
