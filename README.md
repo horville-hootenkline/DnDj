@@ -1,6 +1,6 @@
 # DnDj
 
-**A  multi-featured (and system agnostic) sound mixer and manipulator for [Foundry VTT](https://foundryvtt.com).**
+**A multi-featured (and system agnostic) sound mixer/controller for [Foundry VTT](https://foundryvtt.com).**
 
 DnDj is designed to give the GM detailed control over what is being played and heard.
 
@@ -10,7 +10,7 @@ DnDj is designed to give the GM detailed control over what is being played and h
 
 - live volume control, syncing input slider and volume in real time.
 
-- master (GM and personal (everyone) volume control.
+- master (GM) and personal (everyone) volume control.
 
 - pause.
 
@@ -18,9 +18,9 @@ DnDj is designed to give the GM detailed control over what is being played and h
 
 - pin tracks. When a track in the mix stops, it is automatically remove. Pinned tracks remain. 
 
-- cue tracks to unpause/pause on next fade or snap
+- cue tracks to unpause/pause (or if pinned start) on next fade or snap
 
-- sync everyone to the same time elapsed on all tracks (including when a player logs into a session their audio syncs automatically with the GM's).
+- sync everyone to the same time elapsed on all tracks (including when a player logs into a session, their audio syncs automatically with the GM's).
 
 - Session memory - the ability to load your last mix.
 
@@ -38,7 +38,7 @@ DnDj is designed to give the GM detailed control over what is being played and h
 
 **Possible future features -**
 
-- A soundboard. [ This is a little vanilla, but would make sense within the infrastructure of the module.]
+- A soundboard. [ This is a little vanilla, but would make sense within the scope of the module.]
 
 - A satelite mixer for players [ e.g Brain is all about the delicate woodland ambience, but on the other hand Maggie wants to drown in the addrenaline of endless synths, sampled choirs and war drums. ]
 
