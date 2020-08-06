@@ -2,7 +2,7 @@
 
 **A multi-featured (and system agnostic) sound mixer/controller for [Foundry VTT](https://foundryvtt.com).**
 
-DnDj is designed to give the GM detailed control over what is being played and heard.
+DnDj is designed to give the GM detailed and flexible control over what is being played and heard.
 
 **Features at launch include -**
 
