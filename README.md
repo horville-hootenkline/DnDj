@@ -1,10 +1,14 @@
-# DnDj
+# DnDj - v0.2.2 [alpha]
 
 **A multi-featured (and system agnostic) sound mixer/controller for [Foundry VTT](https://foundryvtt.com).**
 
 ![image](_images/tracks.png)
 
 DnDj is designed to give the GM detailed and flexible control over what is being played and heard.
+
+**Use -**
+
+DnDj is launched from the bottom of the playlists sidebar. Playing/stopping tracks in the sidebar adds/removes them from the mixer.
 
 **Features at launch include -**
 
@@ -14,7 +18,7 @@ DnDj is designed to give the GM detailed and flexible control over what is being
 
 - master (GM) and personal (everyone) volume control.
 
-- pause.
+- pause (with the option to automatically pause tracks when adding the mixer).
 
 - mute.
 
