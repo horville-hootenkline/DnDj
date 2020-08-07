@@ -12,7 +12,7 @@ DnDj is launched from the bottom of the playlists sidebar. Playing/stopping trac
 
 **Features at launch include -**
 
-- simutalneously cross fade tracks smoothly over variable times (including snap change).
+- simultaneously cross fade tracks smoothly over variable times (including snap change).
 
 - live volume control, syncing input slider and volume in real time.
 
