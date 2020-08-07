@@ -2,7 +2,7 @@
     "name": "DnDj",
     "title": "DnDj",
     "description": "A multi-featured (and system agnostic) sound mixer/controller for Foundry VTT",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "author": "horville",
 
     "esmodules": [
@@ -25,5 +25,5 @@
     
     "url": "https://github.com/horville-hootenkline/DnDj",
     "manifest": "https://raw.githubusercontent.com/horville-hootenkline/DnDj/master/module.json",
-    "download": "https://github.com/horville-hootenkline/DnDj/raw/master/DnDj_v0.2.0.zip"
+    "download": "https://github.com/horville-hootenkline/DnDj/raw/master/DnDj_v0.0.3.zip"
 }
