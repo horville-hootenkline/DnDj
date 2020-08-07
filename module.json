@@ -24,6 +24,6 @@
     "compatibleCoreVersion": "0.6.5",
     
     "url": "https://github.com/horville-hootenkline/DnDj",
-    "manifest": "https://github.com/horville-hootenkline/DnDj/module.json",
-    "download": "https://github.com/horville-hootenkline/DnDj/DnDj_v0.2.0.zip"
+    "manifest": "https://raw.githubusercontent.com/horville-hootenkline/DnDj/master/module.json",
+    "download": "https://github.com/horville-hootenkline/DnDj/raw/master/DnDj_v0.2.0.zip"
 }
