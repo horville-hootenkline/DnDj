@@ -49,4 +49,4 @@ DnDj is launched from the bottom of the playlists sidebar. Playing/stopping trac
 - A satelite mixer for players [ e.g Brain is all about the delicate woodland ambience, but on the other hand Maggie wants to drown in the addrenaline of endless synths, sampled choirs and war drums. ]
 
 
-## NOTES - given the intricate nature of this module, its numerous possible states and the inherently disruptive nature of a sound error - this thing is going to be woobly for a while.
+## NOTE - given the intricate nature of this module, its numerous possible states and the inherently disruptive nature of a sound error - this thing is going to be woobly for a while.
