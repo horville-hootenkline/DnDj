@@ -18,7 +18,7 @@ DnDj is launched from the bottom of the playlists sidebar. Playing/stopping trac
 
 - master (GM) and personal (everyone) volume control.
 
-- pause (with the option to automatically pause tracks when adding the mixer).
+- pause (with the option to automatically pause tracks when adding to the mixer).
 
 - mute.
 
