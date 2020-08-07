@@ -1,4 +1,4 @@
-# DnDj - v0.2.0 [alpha]
+# DnDj - v0.0.4 [alpha]
 
 **A multi-featured (and system agnostic) sound mixer/controller for [Foundry VTT](https://foundryvtt.com).**
 
