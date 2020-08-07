@@ -22,7 +22,7 @@ DnDj is launched from the bottom of the playlists sidebar. Playing/stopping trac
 
 - mute.
 
-- pin tracks. When a track in the mix stops, it is automatically remove. Pinned tracks remain. 
+- pin tracks. When a track in the mix stops, it is automatically removed. Pinned tracks remain. 
 
 - cue tracks to unpause/pause (or if pinned start) on next fade or snap
 
